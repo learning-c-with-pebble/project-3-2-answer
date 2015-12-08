@@ -1,6 +1,6 @@
 //----------------------------------------------------------------------------------
 //
-// Project 3.1 from "Programming Pebble in C"
+// Project 3.2 from "Programming Pebble in C"
 // 
 // Mike Jipping, December 2015
 
